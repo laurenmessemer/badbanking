@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Rajdhani', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+}
+
+body {
+  margin: 0;
+  font-family: 'Rajdhani', sans-serif;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+
+  background-image: url("https://wallpapercave.com/wp/wp4831635.jpg");
+  background-size: cover;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
